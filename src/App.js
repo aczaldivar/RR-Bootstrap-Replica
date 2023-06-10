@@ -1,5 +1,5 @@
 import './App.css';
-
+import StoreListings from './StoreListings';
 function App() {
   return (
     <div className="App">
